@@ -3,8 +3,6 @@
 
 ![food1](https://github.com/malayadaniGIT/REACTJS_MCT--FOOD_RECIPE_APP/assets/109133343/87004ca8-4192-48f3-bfa3-df44eab78fd0)
 
-# Recipe Discovery Web Application
-
 ![Project Logo](https://food2forks.netlify.app/static/media/logo.cc3fff7e.svg)
 
 Welcome to the Recipe Discovery Web Application! This web app allows users to search for various recipes, view detailed recipe information, and discover new culinary delights.
