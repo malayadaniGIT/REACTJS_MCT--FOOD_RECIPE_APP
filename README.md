@@ -38,12 +38,12 @@ This web application is designed to simplify the process of finding and explorin
 
 The project utilizes the following technologies and libraries:
 
-- React: A JavaScript library for building user interfaces.
-- React Router: For handling routing and navigation within the application.
-- Chakra UI: A popular UI library for creating responsive and styled components.
-- Redux: For state management and storing recipe data.
-- Axios: For making API calls to retrieve recipe information.
-- CSS: Custom styles are applied using CSS files.
+### - React: A JavaScript library for building user interfaces.
+### - React Router: For handling routing and navigation within the application.
+### - Chakra UI: A popular UI library for creating responsive and styled components.
+### - Redux: For state management and storing recipe data.
+### - Axios: For making API calls to retrieve recipe information.
+### - CSS: Custom styles are applied using CSS files.
 
 ## Getting Started
 
@@ -54,9 +54,12 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/recipe-discovery-app.git
 ## Usage
-Home Page: The landing page welcomes users and encourages them to explore recipes. Click the "Search Recipes" button to navigate to the recipes page.
+### Home Page: 
+The landing page welcomes users and encourages them to explore recipes. Click the "Search Recipes" button to navigate to the recipes page.
 
-Recipes Page: Use the search input field to enter keywords (e.g., "chicken," "pizza") and click the search button to find matching recipes. View recipe details by clicking the "Details" button or open the recipe source URL by clicking the "Recipe URL" button.
+### Recipes Page:
+Use the search input field to enter keywords (e.g., "chicken," "pizza") and click the search button to find matching recipes. View recipe details by clicking the "Details" button or open the recipe source URL by clicking the "Recipe URL" button.
 
-Recipe Details Page: Explore detailed information about a selected recipe, including its title, publisher, ingredients, and external source links.
+### Recipe Details Page:
+Explore detailed information about a selected recipe, including its title, publisher, ingredients, and external source links.
 
