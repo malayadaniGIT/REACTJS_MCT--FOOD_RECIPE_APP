@@ -16,8 +16,7 @@ Welcome to the Recipe Discovery Web Application! This web app allows users to se
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -54,3 +53,10 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/recipe-discovery-app.git
+## Usage
+Home Page: The landing page welcomes users and encourages them to explore recipes. Click the "Search Recipes" button to navigate to the recipes page.
+
+Recipes Page: Use the search input field to enter keywords (e.g., "chicken," "pizza") and click the search button to find matching recipes. View recipe details by clicking the "Details" button or open the recipe source URL by clicking the "Recipe URL" button.
+
+Recipe Details Page: Explore detailed information about a selected recipe, including its title, publisher, ingredients, and external source links.
+
