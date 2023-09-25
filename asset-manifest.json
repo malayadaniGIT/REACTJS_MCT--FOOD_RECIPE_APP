@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/REACTJS_MCT--FOOD_RECIPE_APP/static/css/main.f7727158.css",
+    "main.js": "/REACTJS_MCT--FOOD_RECIPE_APP/static/js/main.c19b54da.js",
+    "static/media/video7.mp4": "/REACTJS_MCT--FOOD_RECIPE_APP/static/media/video7.71aa8e7fc5ad7f1bb25e.mp4",
+    "index.html": "/REACTJS_MCT--FOOD_RECIPE_APP/index.html",
+    "main.f7727158.css.map": "/REACTJS_MCT--FOOD_RECIPE_APP/static/css/main.f7727158.css.map",
+    "main.c19b54da.js.map": "/REACTJS_MCT--FOOD_RECIPE_APP/static/js/main.c19b54da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7727158.css",
+    "static/js/main.c19b54da.js"
+  ]
+}
