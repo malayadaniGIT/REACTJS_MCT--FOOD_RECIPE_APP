@@ -1,0 +1,90 @@
+.detailsdiv{
+    width: 100%;
+    padding: 2%;
+    box-shadow: 0 0 2px black;
+    display: flex;
+    gap: 5%;
+    box-shadow: 0 0 5px black;
+    height: 100%;
+    position: relative;
+}
+
+.spinner {
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 45%;
+    /* transform: translate(-50%, -50%); */
+}
+  
+.imgdiv{
+    width: 40%;
+    display: flex;
+    gap: 10px;
+    height: 70vh;
+    flex-direction: column;
+    box-shadow: 0 1px 5px black;
+    
+}
+.imgdiv img{
+    padding: 10px;
+    height: 70%;
+    margin: 2%;
+    box-shadow: 0 0 2px black;
+}
+.rightsidedetailsdiv{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+    width: 60%;
+    box-shadow: 0 1px 5px black;
+}
+.headings{
+    display: flex;
+    flex-direction: column;
+    height: 30%;
+    gap: 10px;
+}
+.btn{
+    display: flex;
+    gap: 2%;
+    
+}
+.ingridiantdiv{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+.list{
+    padding: 5px;
+    border: 1px solid grey;
+    list-style: none;
+    font-weight: 600;
+    font-size: large;
+}
+.backbtn{
+    margin: 10px 0 0  10px;
+    background-color: rgb(197, 157, 27);
+    height: "6%" ;
+    width: 30%;
+    font-weight: 700;
+    font-size: large;
+}
+ 
+
+@media screen and (min-width: 200px) and (max-width: 600px){
+    .detailsdiv{
+    width:100% ;
+    }
+    .btn{
+        flex-direction: column ;
+        gap: 10px;
+        
+    }
+    
+   
+}
+
+
