@@ -12,8 +12,8 @@ Welcome to the Recipe Discovery Web Application! This web app allows users to se
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Getting Started](#getting-started)
 
 
 ## Introduction
@@ -42,6 +42,16 @@ The project utilizes the following technologies and libraries:
 - **Redux:** For state management and storing recipe data.
 - **Axios:** For making API calls to retrieve recipe information.
 - **CSS:** Custom styles are applied using CSS files.
+  
+## Usage
+### Home Page: 
+The landing page welcomes users and encourages them to explore recipes. Click the "Search Recipes" button to navigate to the recipes page.
+
+### Recipes Page:
+Use the search input field to enter keywords (e.g., "chicken," "pizza") and click the search button to find matching recipes. View recipe details by clicking the "Details" button or open the recipe source URL by clicking the "Recipe URL" button.
+
+### Recipe Details Page:
+Explore detailed information about a selected recipe, including its title, publisher, ingredients, and external source links.
 
 ## Getting Started
 
@@ -56,14 +66,4 @@ To run this project locally, follow these steps:
 - **Start the Development Server:** After installing dependencies, users can run the npm start command to start a local development server. This server allows them to view and interact with the web application on their local machine.
 
 - **Access the Application:** With the development server running, users can open a web browser and visit http://localhost:3000 to access and interact with the web application in their local environment.
-  
-## Usage
-### Home Page: 
-The landing page welcomes users and encourages them to explore recipes. Click the "Search Recipes" button to navigate to the recipes page.
-
-### Recipes Page:
-Use the search input field to enter keywords (e.g., "chicken," "pizza") and click the search button to find matching recipes. View recipe details by clicking the "Details" button or open the recipe source URL by clicking the "Recipe URL" button.
-
-### Recipe Details Page:
-Explore detailed information about a selected recipe, including its title, publisher, ingredients, and external source links.
 
