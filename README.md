@@ -47,15 +47,15 @@ The project utilizes the following technologies and libraries:
 
 To run this project locally, follow these steps:
 
--1 **Clone the Repository:** This step involves using the git clone command to make a local copy of your project from your Git repository. Users need to replace https://github.com/your-username/recipe-discovery-app.git with the actual URL of your Git repository.
+- **Clone the Repository:** This step involves using the git clone command to make a local copy of your project from your Git repository. Users need to replace https://github.com/your-username/recipe-discovery-app.git with the actual URL of your Git repository.
 
--2 **Navigate to the Project Directory:** After cloning the repository, users should use the cd (change directory) command to move into the project's root directory. This is necessary to work with the project files and run commands related to the project.
+- **Navigate to the Project Directory:** After cloning the repository, users should use the cd (change directory) command to move into the project's root directory. This is necessary to work with the project files and run commands related to the project.
 
--3 **Install Dependencies:** Once inside the project directory, users should run the npm install command to install all the project's dependencies. These dependencies typically include libraries and packages used in the project.
+- **Install Dependencies:** Once inside the project directory, users should run the npm install command to install all the project's dependencies. These dependencies typically include libraries and packages used in the project.
 
--4 **Start the Development Server:** After installing dependencies, users can run the npm start command to start a local development server. This server allows them to view and interact with the web application on their local machine.
+- **Start the Development Server:** After installing dependencies, users can run the npm start command to start a local development server. This server allows them to view and interact with the web application on their local machine.
 
--5 **Access the Application:** With the development server running, users can open a web browser and visit http://localhost:3000 to access and interact with the web application in their local environment.
+- **Access the Application:** With the development server running, users can open a web browser and visit http://localhost:3000 to access and interact with the web application in their local environment.
   
 ## Usage
 ### Home Page: 
