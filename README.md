@@ -38,7 +38,7 @@ This web application is designed to simplify the process of finding and explorin
 
 The project utilizes the following technologies and libraries:
 
-### - React: A JavaScript library for building user interfaces.
+## - React: A JavaScript library for building user interfaces.
 ### - React Router: For handling routing and navigation within the application.
 ### - Chakra UI: A popular UI library for creating responsive and styled components.
 ### - Redux: For state management and storing recipe data.
